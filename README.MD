@@ -1,6 +1,6 @@
 # Wisdom Paws 🐾: Gesture-Controlled Uncensored AI Virtual Pet (LLM · Mediapipe · Pygame)
 
-An interactive uncensored AI-powered virtual pet that responds to your **open palm gestures** and returns **contextual wisdom**. Built using Mediapipe for real-time hand tracking and LLMs for generating meaningful responses—blending computer vision, human interaction, and generative AI into a playful emotional experience.
+An interactive uncensored AI-powered virtual pet that responds to your **open palm gestures** and returns **contextual wisdom**. Built using Mediapipe for real-time hand tracking and LLMs for generating meaningful responses blending computer vision, human interaction, and generative AI into a playful emotional experience.
 
 **Pet the AI → receive wisdom back.**
 
