@@ -47,7 +47,7 @@ As seen on TikTok: [Click Here](https://www.tiktok.com/@edwinjaya.py/video/75572
 ---
 
 # Repository layout
-<code>
+```
 .
 ├── Assets/
 │   ├── Idle/
@@ -69,7 +69,7 @@ As seen on TikTok: [Click Here](https://www.tiktok.com/@edwinjaya.py/video/75572
 ├── game.py
 ├── llm.py
 ├── README.md
-</code>
+```
 ---
 
 # Quickstart (Local)
