@@ -1,6 +1,6 @@
 # Wisdom Paws 🐾: Gesture-Controlled Uncensored AI Virtual Pet (LLM · Mediapipe · Pygame)
 
-An interactive uncensored AI-powered virtual pet that responds to your **open palm gestures** and returns **contextual wisdom**. Built using Mediapipe for real-time hand tracking and LLMs for generating meaningful responses—blending computer vision, human interaction, and generative AI into a playful emotional experience.
+An interactive uncensored AI-powered virtual pet that responds to your **open palm gestures** and returns **contextual wisdom**. Built using Mediapipe for real-time hand tracking and LLMs for generating meaningful responses blending computer vision, human interaction, and generative AI into a playful emotional experience.
 
 **Pet the AI → receive wisdom back.**
 
@@ -30,7 +30,7 @@ An interactive uncensored AI-powered virtual pet that responds to your **open pa
 ---
 
 # Demo
-As seen on TikTok: [Click Here](https://www.tiktok.com/@edwinjaya.py)  
+As seen on TikTok: [Click Here](https://www.tiktok.com/@edwinjaya.py/video/7557233096576355591)  
 
 ---
 
@@ -47,6 +47,7 @@ As seen on TikTok: [Click Here](https://www.tiktok.com/@edwinjaya.py)
 ---
 
 # Repository layout
+```
 .
 ├── Assets/
 │   ├── Idle/
@@ -68,14 +69,15 @@ As seen on TikTok: [Click Here](https://www.tiktok.com/@edwinjaya.py)
 ├── game.py
 ├── llm.py
 ├── README.md
-
+```
 ---
 
 # Quickstart (Local)
 
-## 1️⃣ Create and activate environment  
+## 1️⃣ Create and activate environment
 <code>conda create -n wisdompaws python=3.9
-conda activate wisdompaws</code>
+conda activate wisdompaws
+</code>
 
 ## 2️⃣ Install dependencies  
 <code>pip install -r requirements.txt</code>
