@@ -83,7 +83,7 @@ conda activate wisdompaws
 <code>pip install -r requirements.txt</code>
 
 ## 3️⃣ Run the app  
-<code>python main.py</code>
+<code>python app.py</code>
 
 ---
 
