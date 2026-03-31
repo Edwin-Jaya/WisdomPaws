@@ -30,7 +30,7 @@ An interactive uncensored AI-powered virtual pet that responds to your **open pa
 ---
 
 # Demo
-As seen on TikTok: [Click Here](https://www.tiktok.com/@edwinjaya.py)  
+As seen on TikTok: [Click Here](https://www.tiktok.com/@edwinjaya.py/video/7557233096576355591)  
 
 ---
 
@@ -47,6 +47,7 @@ As seen on TikTok: [Click Here](https://www.tiktok.com/@edwinjaya.py)
 ---
 
 # Repository layout
+<code>
 .
 ├── Assets/
 │   ├── Idle/
@@ -68,7 +69,7 @@ As seen on TikTok: [Click Here](https://www.tiktok.com/@edwinjaya.py)
 ├── game.py
 ├── llm.py
 ├── README.md
-
+</code>
 ---
 
 # Quickstart (Local)
