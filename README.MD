@@ -74,8 +74,8 @@ As seen on TikTok: [Click Here](https://www.tiktok.com/@edwinjaya.py/video/75572
 
 # Quickstart (Local)
 
-## 1️⃣ Create and activate environment<code>
-conda create -n wisdompaws python=3.9
+## 1️⃣ Create and activate environment
+<code>conda create -n wisdompaws python=3.9
 conda activate wisdompaws
 </code>
 
